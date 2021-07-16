@@ -16,4 +16,4 @@ O envolvimento neste projeto teve como objetivo praticar, aprimorar e conhecer n
 
 Além dessas tecnologias usadas, foram utilizados diversos conceitos e aplicações, como **_Axios_** para requisição a APIs, **_JSON_** Server para simular uma API, Animações, Notificações, etc.
 
-Confira o [repositório oficial do projeto](https://github.com/rocketseat-education/nlw-05-react-native) no Github da RocketSeat para mais informações sobre o projeto.
+Confira o [repositório oficial do projeto](https://github.com/rocketseat-education/nlw-05-react-native) no Github da RocketSeat para mais informações.
