@@ -11,4 +11,4 @@ My participation in this project aimed to practice, improvement and learn about 
 
 In addition to these technologies mentioned above, some other important libraries and tricks were used, such as **_Axios_** to HTTP requests, **_JSON Server_** to simulate data from APIs, animations, notifications, etc.
 
-Check out the [project official repository](https://github.com/rocketseat-education/nlw-05-react-native) on Rocketseat's Github for more information.
+Check out the [project's official repository](https://github.com/rocketseat-education/nlw-05-react-native) on Rocketseat's Github for more information.
