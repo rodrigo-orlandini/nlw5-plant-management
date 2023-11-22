@@ -5,9 +5,11 @@ Plant Management is an app that helps users take care of their plants with notif
 
 My participation in this project aimed to practice, improvement and learn about new concepts related to **React Native**.
 
+---
+
 ### Technologies: 
-* **_React Native_** with **_Expo_**
-* **_Typescript_**
+[![React Native](.markdown/react-native.png "React Native")](https://reactnative.dev/)
+[![Typescript](.markdown/typescript.png "Typescript")]([https://reactnative.dev/](https://www.typescriptlang.org/))
 
 In addition to these technologies mentioned above, some other important libraries and tricks were used, such as **_Axios_** to HTTP requests, **_JSON Server_** to simulate data from APIs, animations, notifications, etc.
 
