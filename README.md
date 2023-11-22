@@ -9,7 +9,7 @@ My participation in this project aimed to practice, improvement and learn about 
 
 ### Technologies: 
 [![React Native](.markdown/react-native.png "React Native")](https://reactnative.dev/)
-[![Typescript](.markdown/typescript.png "Typescript")]([https://reactnative.dev/](https://www.typescriptlang.org/))
+[![Typescript](.markdown/typescript.png "Typescript")](https://www.typescriptlang.org/)
 
 In addition to these technologies mentioned above, some other important libraries and tricks were used, such as **_Axios_** to HTTP requests, **_JSON Server_** to simulate data from APIs, animations, notifications, etc.
 
